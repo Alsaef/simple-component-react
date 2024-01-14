@@ -3,7 +3,7 @@ import hero from '../assets/hero-graphics.svg';
 const Banner = () => {
     return (
         <section>
-            <div className='flex items-center justify-center'>
+            <div className='flex items-center justify-around gap-6'>
 
 
 <div>
@@ -12,7 +12,7 @@ const Banner = () => {
 </div>
 
 <div>
-    <img src={hero}alt="" />
+    <img className='md:order-2 object-cover ml-auto animate-updown' src={hero}alt="" />
 </div>
 
 
