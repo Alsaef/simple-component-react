@@ -1,0 +1,24 @@
+import React from 'react';
+import hero from '../assets/hero-graphics.svg';
+const Banner = () => {
+    return (
+        <section>
+            <div className='flex items-center justify-center'>
+
+
+<div>
+    <h1 className='text-4xl lg:text-[56px] font-bold leading-[1.1] mb-8 text-white text'>The Future of Learning <br /> starts  <br /> with students <br /> at  the center</h1>
+    <a className='px-5 py-2.5 bg-[#038C61] rounded-[44px] text-white' href="">Learn More</a>
+</div>
+
+<div>
+    <img src={hero}alt="" />
+</div>
+
+
+            </div>
+        </section>
+    );
+};
+
+export default Banner;
