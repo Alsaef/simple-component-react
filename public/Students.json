@@ -1,0 +1,51 @@
+[
+    {
+      "Class": "One",
+      "ID": 1,
+      "Name": "John",
+      "Percentage": 95,
+      "Grade": "A+",
+      "Image": "../src/assets/avatar.png"
+    },
+    {
+      "Class": "One",
+      "ID": 2,
+      "Name": "Alice",
+      "Percentage": 87,
+      "Grade": "A+",
+      "Image": "../src/assets/avatar.png"
+    },
+    {
+      "Class": "One",
+      "ID": 3,
+      "Name": "Bob",
+      "Percentage": 81,
+      "Grade": "A+",
+      "Image": "../src/assets/avatar.png"
+    },
+    {
+      "Class": "Two",
+      "ID": 1,
+      "Name": "John Smith",
+      "Percentage": 81,
+      "Grade": "A+",
+      "Image": "../src/assets/avatar.png"
+    },
+    {
+      "Class": "Two",
+      "ID": 2,
+      "Name": "Smith",
+      "Percentage": 81,
+      "Grade": "A+",
+      "Image": "../src/assets/avatar.png"
+    },
+    {
+      "Class": "Two",
+      "ID": 3,
+      "Name": "Bob",
+      "Percentage": 81,
+      "Grade": "A+",
+      "Image": "../src/assets/avatar.png"
+    }
+  ]
+  
